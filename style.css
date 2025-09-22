@@ -1640,6 +1640,7 @@ h1 {
   .titulo1 {
   font-size: 15px;
   width: 100%;
+  margin-bottom: 50px;
   }
 
   .flowers {
@@ -1657,6 +1658,7 @@ h1 {
   }
 
   .titulo1 {
+    margin-bottom: 50px;
     width: 80%;
   }
 }
